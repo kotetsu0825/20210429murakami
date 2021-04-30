@@ -1,0 +1,19 @@
+header nav h1 {
+  font-weight: bold;
+  color: #000080;
+}
+
+header nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-right: 25px;
+}
+
+p {
+  font-size: 100px;
+}
