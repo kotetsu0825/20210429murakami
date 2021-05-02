@@ -14,15 +14,18 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 .navbar ul {
   display: flex;
   list-style: none;
+  
 }
 
 .navbar li {
   margin-left: 2rem;
+  
 }
 
 .coachtech_img img {
@@ -51,7 +54,10 @@ p {
   top: 350px;
 }
 
-
+a {
+  text-decoration: none;
+  color: #000080;
+}
 
 
 
